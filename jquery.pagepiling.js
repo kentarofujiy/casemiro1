@@ -648,7 +648,7 @@
         var check;
         var scrollSection;
   
-        if (type == 'up') {
+        if (type == 'down') {
           check = 'bottom';
           scrollSection = PP.moveSectionDown;
         } else {
